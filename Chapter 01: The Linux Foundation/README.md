@@ -123,11 +123,46 @@ Algunos de los hechos clave sobre la familia SUSE se enumeran a continuación:
 - **SUSE Linux Enterprise Server (SLES)** está en sentido ascendente para openSUSE.
 - Kernel versión 4.4 se utiliza en **openSUSE-Leap-42.2**.
 - Utiliza el administrador de paquetes **zypper** basado en **RPM** (lo trataremos con más detalle más adelante) para instalar, actualizar y eliminar paquetes en el sistema.
-- Incluye la aplicación **YaST** (**Y**et **A**nother **S**etup **T**ool)) para fines de administración del sistema. SLES es ampliamente utilizado en el comercio minorista y otros sectores.
+- Incluye la aplicación **YaST** (**Y**et **A**nother **S**etup **T**ool) para fines de administración del sistema.
+- **SLES** es ampliamente utilizado en el comercio minorista y otros sectores.
 
+#### La familia Debian ####
 
-### Section 2: The Linux Foundation Training ###
+La distribución **Debian** está en sentido ascendente para muchas otras distribuciones, incluida **Ubuntu**. A su vez, **Ubuntu** está en proceso para **Linux Mint** y varias otras distribuciones. Se usa comúnmente en servidores y computadoras de escritorio. **Debian** es un proyecto de código abierto puro y tiene un fuerte enfoque en la estabilidad.
 
-### Section 3: Course Linux Requirements ###
+**Debian** proporciona de lejos el repositorio de software más grande y completo para sus usuarios de cualquier distribución de Linux.
 
-### Summary ###
+**Ubuntu** tiene como objetivo proporcionar un buen compromiso entre la estabilidad a largo plazo y la facilidad de uso. Como Ubuntu obtiene la mayoría de sus paquetes de la rama estable de **Debian**, **Ubuntu** también tiene acceso a un repositorio de software muy grande. Por esas razones, utilizaremos **Ubuntu 16.04 LTS** (**L**ong **T**erm **S**upport) como la **distribución familiar de Debian** de referencia para este curso. **Ubuntu** es una marca registrada de **Canonical Ltd**. y se usa a lo largo de este curso con su permiso.
+
+#### Datos clave sobre la familia Debian ####
+
+Algunos datos clave sobre la familia Debian se enumeran a continuación:
+
+- La familia **Debian** está en proceso para **Ubuntu**, y **Ubuntu** está en proceso para **Linux Mint** y otros.
+- Kernel versión 4.4 se utiliza en **Ubuntu 16.04 LTS**.
+- Utiliza el administrador de paquetes **APT** basado en **DPKG** (utilizando apt-get, apt-cache, etc., que trataremos con más detalle más adelante) para instalar, actualizar y eliminar paquetes en el sistema.
+- **Ubuntu** ha sido ampliamente utilizado para implementaciones en la nube.
+- Si bien **Ubuntu** se basa en Debian y está basado en **GNOME**, utiliza la interfaz gráfica de **Unity** y difiere visualmente de la interfaz en **Debian** estándar, así como en otras distribuciones.
+
+#### Más sobre el entorno de software ####
+
+El material producido por la Fundación Linux es de **distribución flexible**. Esto significa que las explicaciones técnicas, los laboratorios y los procedimientos deberían funcionar en casi todas las distribuciones más modernas. Al elegir entre los sistemas Linux disponibles, notará que las diferencias técnicas se refieren principalmente a los sistemas de administración de paquetes, versiones de software y ubicaciones de archivos. Una vez que comprendes esas diferencias, se vuelve relativamente sencillo cambiar de una distribución de Linux a otra.
+
+El entorno de escritorio utilizado para este curso es **GNOME**. Como veremos en el Capítulo 4, existen diferentes entornos, pero seleccionamos **GNOME** ya que es el más utilizado.
+
+#### Knowledge Check ####
+
+Las tres familias de distribución (Fedora, SUSE y Debian) que estamos utilizando están en sentido ascendente para varias distribuciones de Linux. Algunas distribuciones se enumeran a continuación.
+
+|Fedora|SUSE|Debian|
+|:----:|:--:|:----:|
+|CenterOS|SELES|Ubuntu|
+|Oracle Linux||Linux Mint|
+
+#### Resumen ####
+
+Has completado este capítulo. Vamos a resumir los conceptos clave cubiertos:
+
+- La Linux Foundation es la organización paraguas de muchos proyectos críticos de código abierto que actualmente impulsan a las corporaciones, abarcando todos los sectores de la industria. Su trabajo hoy se extiende mucho más allá de Linux, fomentando la innovación en cada capa de la pila de software.
+- La capacitación de la Fundación Linux es para la comunidad y la comunidad. La capacitación en Linux es de distribución flexible, técnicamente avanzada y creada con los líderes de la comunidad de desarrollo de Linux.
+- Hay tres familias principales de distribución dentro de Linux: **Fedora**, **SUSE** y **Debian**. En este curso, trabajaremos con miembros representativos de todas estas familias en todo momento.
