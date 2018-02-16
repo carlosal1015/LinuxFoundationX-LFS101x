@@ -83,6 +83,6 @@ Una excelente manera de interactuar con los compañeros que toman este curso es 
 - Para hacer preguntas sobre el contenido del curso.
 - Para compartir recursos e ideas relacionadas con Linux.
 
-Le recomendamos encarecidamente que no solo haga preguntas, sino que comparta con las opiniones de sus compañeros sobre el contenido del curso, así como recursos valiosos relacionados. Los paneles de discusión serán revisados ​​periódicamente por el personal de  The Linux Foundation  , pero son principalmente un recurso de la comunidad. Para obtener más consejos sobre el uso de los Tableros de discusión, haga clic  aquí .
+Le recomendamos encarecidamente que no solo haga preguntas, sino que comparta con las opiniones de sus compañeros sobre el contenido del curso, así como recursos valiosos relacionados. Los paneles de discusión serán revisados periódicamente por el personal de la **Linux Foundation**, pero son principalmente un recurso de la comunidad. Para obtener más consejos sobre el uso de los Tableros de discusión, haga clic [aquí](https://blog.edx.org/getting-most-out-edx-discussion-forums).
 
 Si alguna vez necesita asistencia técnica, la ayuda está a su alcance utilizando el botón de Ayuda en la parte superior derecha de la pantalla (de hecho, ¡adelante y haga clic ahora para ver lo que hace!). Aquí puede obtener ayuda técnica, hacer preguntas generales o ser dirigido al Foro de discusión para preguntas sobre el contenido. 
