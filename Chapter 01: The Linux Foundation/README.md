@@ -21,9 +21,9 @@ Al final de este capítulo, usted debería ser capaz de:
 - Describir el entorno de software requerido para este curso.
 - Describir las tres principales familias de distribución de Linux.
 
-### Section 1: The Linux Foundation ###
-
 #### Acerca de la Fundación Linux ####
+
+<img style="float: right;" src="../images/LFS01_ch01_screen_04.jpg">
 
 Desde su creación en 1991, Linux se ha convertido en una fuerza importante en la informática, impulsando todo, desde la Bolsa de Valores de Nueva York, hasta teléfonos móviles, supercomputadoras y dispositivos de consumo.
 
