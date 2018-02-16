@@ -12,7 +12,7 @@
 
 ## Objetivos de aprendizaje
 
-images/LFS01_LO.jpg
+<img style="float: right;" src="../images/LFS01_LO.jpg">
 
 Al final de este capítulo, usted debería ser capaz de:
 
