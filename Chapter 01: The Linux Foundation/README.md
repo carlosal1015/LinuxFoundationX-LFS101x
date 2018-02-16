@@ -46,6 +46,7 @@ Y muchos más.
 Para obtener más información sobre The Linux Foundation, haga clic [aquí](https://www.linuxfoundation.org).
 
 ## Los eventos de la Fundación Linux
+<img style="float: right;" src="../images/LFS01_ch01_screen_06_a.jpg">
 
 La Fundación Linux organiza conferencias y otros eventos en todo el mundo que reúnen a los miembros de la comunidad en persona. Estos eventos:
 
