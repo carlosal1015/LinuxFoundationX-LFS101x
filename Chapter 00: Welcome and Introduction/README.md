@@ -22,7 +22,7 @@ Felicidades por embarcarse en un viaje para aprender **Linux**. Esperamos que es
 
 <img style="float: right;" src="../images/LFS01_ch0_screen_04.jpg">
 
-El programa completo de este curso se puede descargar [aquí](). Como este curso es completamente personalizado, incluimos muchas preguntas, actividades y laboratorios para ayudarlo a practicar las habilidades a medida que las adquiere.
+El programa completo de este curso se puede descargar [aquí](https://github.com/carlosal1015/LinuxFoundationX-LFS101x/blob/master/References/LFS101x_-_Introduction_to_Linux_Outline.pdf). Como este curso es completamente personalizado, incluimos muchas preguntas, actividades y laboratorios para ayudarlo a practicar las habilidades a medida que las adquiere.
 
 > Para completar este curso con una calificación aprobatoria, debe obtener una calificación aprobatoria en el Examen Final de un mínimo del 70%.
 
