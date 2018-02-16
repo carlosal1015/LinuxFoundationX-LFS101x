@@ -6,4 +6,4 @@
 
 ## Antes de que empezar
 
-El objetivo de este curso es ayudarlo a familiarizarse con el **sistema** operativo **Linux**. Está diseñado para llevarte mucho más allá de ser un usuario personal e informal de Linux. Comenzará con los fundamentos y el progreso para explorar las diversas herramientas y técnicas comúnmente utilizadas por los usuarios, programadores y administradores de sistemas de Linux para hacer su trabajo diario.
+El objetivo de este curso es ayudarlo a familiarizarse con el **sistema** operativo **Linux**. Está diseñado para llevarte mucho más allá de ser un usuario personal e informal de **Linux**. Comenzará con los fundamentos y el progreso para explorar las diversas herramientas y técnicas comúnmente utilizadas por los usuarios, programadores y administradores de sistemas de Linux para hacer su trabajo diario.
