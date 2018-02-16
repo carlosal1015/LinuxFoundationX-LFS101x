@@ -27,3 +27,9 @@ El programa completo de este curso se puede descargar [aquí](https://github.com
 > Para completar este curso con una calificación aprobatoria, debe obtener una calificación aprobatoria en el Examen Final de un mínimo del 70%.
 
 Tendrás un máximo de 2 intentos para responder cada pregunta en el examen. Es un examen de libro abierto (lo que significa que es libre de hacer referencia a sus notas, pantallas del curso, etc.), y no hay un límite de tiempo sobre cuánto tiempo puede dedicar a una pregunta o en todo el examen. Siempre puedes omitir una pregunta y volver a ella más tarde.
+
+## Progreso del curso, finalización y certificados
+
+El objetivo de este curso es ayudar a los usuarios a desarrollar sus habilidades en **Linux**. Como resultado, hay muchas oportunidades para practicar lo que ha aprendido utilizando las preguntas de verificación de conocimientos, simulaciones "Pruébelo usted mismo" y laboratorios (con soluciones incluidas), que no están calificados, y no cuentan para la calificación final aprobatoria (solo el examen final lo hace). Un efecto secundario de esto es que la **página de progreso del curso permanecerá en blanco hasta que tome el examen final**. No te preocupes, así es como está diseñada la plataforma.
+
+Una vez que haya completado el examen, querrá saber si ya pasó. Podrá ver su estado de finalización utilizando la pestaña "Progreso" en la parte superior de la pantalla, que indicará claramente si alcanzó o no un puntaje de aprobación. Haga clic [aquí]()  para ver una muestra de esta pantalla en una nueva pestaña.
