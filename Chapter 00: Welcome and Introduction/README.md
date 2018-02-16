@@ -4,7 +4,7 @@
 
 [![Video](http://img.youtube.com/vi/x8iKn4tsW1A/maxresdefault.jpg)](https://www.youtube.com/watch?v=x8iKn4tsW1A)
 
-## Antes de que empezar
+## Antes de empezar
 
 <img style="float: right;" src="../images/LFS01_ch0_screen_02.jpg">
 
