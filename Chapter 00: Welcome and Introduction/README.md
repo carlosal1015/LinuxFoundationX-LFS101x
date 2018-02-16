@@ -118,3 +118,7 @@ Jerry Cooperstein, Phd.
 Director del Programa de Entrenamiento 
 
 La Fundación Linux
+
+## Instalación de Linux (video de autor)
+
+[![Video](http://img.youtube.com/vi/suMGCfrwtVo/maxresdefault.jpg)](https://www.youtube.com/watch?v=suMGCfrwtVo)
