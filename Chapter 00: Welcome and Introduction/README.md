@@ -46,3 +46,21 @@ Los certificados de finalización (Certificados Verificados) están disponibles 
 <img style="float: right;" src="../images/LFS01_ch0_screen_05.jpg">
 
 Este curso es completamente personalizado; no hay un horario fijo para examinar el material. Puede seguir el curso a su propio ritmo, y siempre regresará a donde lo dejó cuando regrese para comenzar una nueva sesión. No hay un período específico de tiempo en el que deba finalizar. Habiendo dicho eso, la clave para obtener el máximo provecho de este (o cualquier) curso es tener una rutina. Según su cronograma, puede pasar tal vez una hora al día o tal vez un par de horas cada fin de semana. Sea lo que sea, intenta seguir con eso. De esta forma, descubrirá que es mejor recordar lo que se ha cubierto anteriormente y está en mejores condiciones para digerir el nuevo material.
+
+Los capítulos del curso se diseñaron para complementarse unos con otros, comenzando con algunos elementos básicos y avanzando hacia temas más avanzados. Probablemente sea mejor trabajar en ellos en secuencia para minimizar la confusión. Si omite o solo revisa algunos capítulos rápidamente, es posible que encuentre temas sobre los que aún no haya estado expuesto. Pero esto es todo a su propio ritmo y siempre puede regresar, por lo que puede enrutar su propio camino a través del material.
+
+## Ayudas para el aprendizaje
+
+Además de la exposición simple a través de texto y figuras, este curso utiliza varios métodos adicionales para presentar el material de aprendizaje.
+
+### Videos
+
+Hay muchos videos de demostración para ayudarlo a comprender los procedimientos, así como un video introductorio para cada capítulo. Los pasos y procedimientos exactos pueden variar un poco, de acuerdo con su distribución específica de Linux. Además, a menudo hay más de una forma de hacer algo, así que no interpretes los videos como algo que se debe seguir rigurosamente. Es posible que desee hacer clic en elbotón CC para ver los subtítulos, o aumentar la velocidad de reproducción para que tome menos tiempo. Haga clic aquí  para ver sugerencias adicionales.
+
+### Pruébelo usted mismo
+
+En estas actividades, se le pide que realice ciertas tareas, y se verifica su entrada para ver si es correcta, con comentarios específicos proporcionados si no es así. Estos no están destinados a reemplazar el laboratorioejercicios, sino simplemente para proporcionar algunas oportunidades provisionales para practicar. Para evitar que los archivos multimedia subyacentes se vuelvan demasiado grandes y complejos, usamos un algoritmo muy lineal, que solo reconoce la respuesta específica cubierta en el material. No te desanimes si escribes algo que crees que debería funcionar, pero se muestran comentarios sobre una respuesta sugerida diferente. No necesariamente significa que lo que ingresó no funcionaría en el mundo real. De hecho, te recomendamos que experimentes con los ejercicios en tu sistema Linux en vivo una vez que hayas hecho un pase inicial a través de la simulación; esto te dará la libertad de experimentar con otras variaciones y ver qué funciona. También, tenga en cuenta que los usuarios de Linux más avanzados a veces conocerán otras formas (a menudo más complicadas) de hacer cosas que simplemente no se pueden incorporar en estas simulaciones. Tales veteranos experimentados, por supuesto, no son el público objetivo para este curso.
+
+### Comprobación del conocimiento
+
+En estas secciones, se le pide que responda preguntas cortas (generalmente de opción múltiple) para ver si ha captado la discusión anterior. De lo contrario, es posible que se pierda un poco a medida que avanza más. Una vez más, puede haber un caso en el que brinde una respuesta levemente diferente pero correcta, y se le informa incorrectamente que está equivocado, aunque hemos intentado minimizar las preguntas de relleno por esa razón. ¡Recuerda que no estás siendo calificado!
