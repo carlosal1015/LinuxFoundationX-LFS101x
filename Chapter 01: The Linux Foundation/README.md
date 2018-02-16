@@ -39,13 +39,13 @@ El trabajo de la Fundación Linux hoy se extiende mucho más allá de Linux, fom
 - Cloud computing: [Cloud Foundry](https://www.cloudfoundry.org/), [Cloud Native Computing Foundation](https://www.cncf.io/), [Open Container Initiative](https://www.opencontainers.org/)
 - Automotive: [Automotive Grade Linux](https://www.automotivelinux.org/)
 - Security: [The Core Infrastructure Initiative](https://www.coreinfrastructure.org/)
-- Blockchain: [Hyperledger]()
+- Blockchain: [Hyperledger](https://www.hyperledger.org/)
 
-And many more.
+Y muchos más.
 
 Para obtener más información sobre The Linux Foundation, haga clic [aquí](https://www.linuxfoundation.org).
 
-#### Los eventos de la Fundación Linux ####
+## Los eventos de la Fundación Linux
 
 La Fundación Linux organiza conferencias y otros eventos en todo el mundo que reúnen a los miembros de la comunidad en persona. Estos eventos:
 
@@ -55,7 +55,7 @@ La Fundación Linux organiza conferencias y otros eventos en todo el mundo que r
 - Fomentar la colaboración entre toda la comunidad.
 - Proporcione una atmósfera que no tiene rival en su capacidad para ampliar la plataforma.
 
-#### Más sobre los eventos de la Fundación Linux ####
+## Más sobre los eventos de la Fundación Linux
 
 Los eventos de la Fundación Linux incluyen:
 
@@ -70,28 +70,28 @@ Los eventos de la Fundación Linux incluyen:
 - Vault
 - Open Networking Summit.
 
-#### Knowledge Check ####
+## Knowledge Check
 
 - [x] To promote Linux and provide neutral collaboration and education
 - [x] To improve Linux as a technical platform.
 - [x] To sponsor the work of Linus Torvalds.
 - [ ] To manage Linux and UNIX servers on a commercial basis.
 
-#### El entrenamiento de la Fundación Linux ####
+## El entrenamiento de la Fundación Linux
 
 Aunque creemos en la iniciativa individual y la creatividad, no es necesario que el aprendizaje de Linux sea intimidante. Puede aprovechar el poder de la colaboración para comenzar su aprendizaje. Nuestras clases desarrollan las habilidades críticas que los individuos y las organizaciones necesitan para sacar el máximo provecho de Linux y continuar con el aprendizaje autodirigido.
 
-#### Entrenamiento que construye habilidades ####
+## Entrenamiento que construye habilidades
 
 La capacitación de la Fundación Linux es para la comunidad y está diseñada por miembros de la comunidad. Los cursos de Administración de sistemas se centran en entornos de Enterprise Linux y administradores del sistema de destino, soporte técnico y arquitectos. Los cursos para desarrolladores incluyen instructores y contenido directamente de los líderes de la comunidad de desarrolladores de Linux.
 
 La capacitación de la Fundación Linux es de distribución flexible, técnicamente avanzada y creada por los propios líderes de la comunidad de desarrollo de Linux. La mayoría de los cursos están concentrados en más del 50% en laboratorios prácticos y actividades para desarrollar habilidades del mundo real.
 
-#### Copyright ####
+## Copyright
 
-La Linux Foundation tiene derechos de autor sobre todos los materiales de este curso. Toda la capacitación de Linux Foundation, incluido todo el material proporcionado en este documento, se proporciona sin ninguna garantía de The Linux Foundation. La Fundación Linux no asume ninguna responsabilidad por daños o acciones legales que surjan del uso o uso indebido de los contenidos o los detalles contenidos en este documento. Si cree que los materiales de The Linux Foundation están siendo utilizados, copiados o distribuidos de forma inapropiada, envíe un correo electrónico a training@linuxfoundation.org.
+La Linux Foundation tiene derechos de autor sobre todos los materiales de este curso. Toda la capacitación de Linux Foundation, incluido todo el material proporcionado en este documento, se proporciona sin ninguna garantía de The Linux Foundation. La Fundación Linux no asume ninguna responsabilidad por daños o acciones legales que surjan del uso o uso indebido de los contenidos o los detalles contenidos en este documento. Si cree que los materiales de The Linux Foundation están siendo utilizados, copiados o distribuidos de forma inapropiada, envíe un correo electrónico a [training@linuxfoundation.org]().
 
-#### Requisitos del software del curso ####
+## Requisitos del software del curso
 
 Para obtener el máximo beneficio de este curso, necesitará tener instalada al menos una **distribución de Linux** (si aún no está familiarizado con el término distribución, en lo que se refiere a **Linux**, ¡pronto lo estará!).
 
@@ -103,11 +103,11 @@ Las familias y las distribuciones representativas que estamos utilizando son:
 2. SUSE Family Systems (such as openSUSE)
 3. Fedora Family Systems (such as CentOS)
 
-#### Enfoque en tres familias principales de distribución de Linux ####
+## Enfoque en tres familias principales de distribución de Linux
 
 En el siguiente capítulo aprenderá sobre los componentes que componen una distribución de Linux. Por ahora, lo que necesita saber es que este curso se centra en las tres principales familias de distribución de Linux que existen actualmente. Sin embargo, mientras haya contribuyentes talentosos, las familias de distribuciones y las distribuciones dentro de estas familias continuarán cambiando y creciendo. Las personas ven una necesidad y desarrollan configuraciones y utilidades especiales para responder a esa necesidad. A veces ese esfuerzo crea una nueva distribución de Linux. Algunas veces, ese esfuerzo aprovechará una distribución existente para expandir los miembros de una familia existente. Para obtener una lista bastante larga de distribuciones disponibles, consulte https://lwn.net/Distributions/
 
-#### La familia Fedora ####
+## La familia Fedora
 
 **Fedora** es la distribución de la comunidad que forma la base de **Red Hat Enterprise Linux (RHEL)**, **CentOS**, **Scientific Linux** y **Oracle Linux**. Fedora contiene significativamente más software que la versión empresarial de **Red Hat**. Una razón para esto es que una comunidad diversa está involucrada en la construcción de Fedora, con muchos contribuyentes que no trabajan para **Red Hat**. Además, se usa como plataforma de prueba para futuras versiones de **RHEL**.
 
