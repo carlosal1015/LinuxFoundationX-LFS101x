@@ -39,4 +39,4 @@ Los certificados de finalización (Certificados Verificados) están disponibles 
 **Sugerencia**: si necesita demostrar una constancia de finalización antes de que se genere su certificado, le recomendamos que tome una captura de pantalla de la página de progreso del curso.
 
 
-<img style="float: right;" src="../images/course_progress_cert_request.png">
+<img style="float" src="../images/course_progress_cert_request.png">
