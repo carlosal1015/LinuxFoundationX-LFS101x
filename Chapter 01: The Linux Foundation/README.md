@@ -75,7 +75,7 @@ Haga clic a continuación para ver un video sobre los eventos organizados por Th
 
 [![Video](http://img.youtube.com/vi/q3nJRoihSBI/maxresdefault.jpg)](https://www.youtube.com/watch?v=q3nJRoihSBI)
 
-## Knowledge Check
+## Verificación de conocimiento
 
 - [x] To promote Linux and provide neutral collaboration and education
 - [x] To improve Linux as a technical platform.
