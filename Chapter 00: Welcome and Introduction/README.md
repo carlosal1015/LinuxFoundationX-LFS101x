@@ -32,7 +32,7 @@ Tendrás un máximo de 2 intentos para responder cada pregunta en el examen. Es 
 
 El objetivo de este curso es ayudar a los usuarios a desarrollar sus habilidades en **Linux**. Como resultado, hay muchas oportunidades para practicar lo que ha aprendido utilizando las preguntas de verificación de conocimientos, simulaciones "Pruébelo usted mismo" y laboratorios (con soluciones incluidas), que no están calificados, y no cuentan para la calificación final aprobatoria (solo el examen final lo hace). Un efecto secundario de esto es que la **página de progreso del curso permanecerá en blanco hasta que tome el examen final**. No te preocupes, así es como está diseñada la plataforma.
 
-Una vez que haya completado el examen, querrá saber si ya pasó. Podrá ver su estado de finalización utilizando la pestaña "Progreso" en la parte superior de la pantalla, que indicará claramente si alcanzó o no un puntaje de aprobación. Haga clic [aquí](https://github.com/carlosal1015/LinuxFoundationX-LFS101x/blob/master/References/LFS101x_-_Introduction_to_Linux_Outline.pdf)  para ver una muestra de esta pantalla en una nueva pestaña.
+Una vez que haya completado el examen, querrá saber si ya pasó. Podrá ver su estado de finalización utilizando la pestaña "Progreso" en la parte superior de la pantalla, que indicará claramente si alcanzó o no un puntaje de aprobación. Haga clic [aquí]()  para ver una muestra de esta pantalla en una nueva pestaña.
 
 Los certificados de finalización (Certificados Verificados) están disponibles una vez que obtiene una calificación aprobatoria. Una vez que lo haya hecho, puede solicitar el certificado en su página "Progreso". Una vez que se completa la solicitud (que puede demorar hasta 48 horas), puede regresar al mismo lugar y descargar su certificado. Las imágenes a continuación proporcionan una guía de cómo se verá esto.
 
@@ -55,7 +55,7 @@ Además de la exposición simple a través de texto y figuras, este curso utiliz
 
 ### Videos
 
-Hay muchos videos de demostración para ayudarlo a comprender los procedimientos, así como un video introductorio para cada capítulo. Los pasos y procedimientos exactos pueden variar un poco, de acuerdo con su distribución específica de Linux. Además, a menudo hay más de una forma de hacer algo, así que no interpretes los videos como algo que se debe seguir rigurosamente. Es posible que desee hacer clic en elbotón CC para ver los subtítulos, o aumentar la velocidad de reproducción para que tome menos tiempo. Haga clic aquí  para ver sugerencias adicionales.
+Hay muchos videos de demostración para ayudarlo a comprender los procedimientos, así como un video introductorio para cada capítulo. Los pasos y procedimientos exactos pueden variar un poco, de acuerdo con su distribución específica de Linux. Además, a menudo hay más de una forma de hacer algo, así que no interpretes los videos como algo que se debe seguir rigurosamente. Es posible que desee hacer clic en elbotón CC para ver los subtítulos, o aumentar la velocidad de reproducción para que tome menos tiempo. Haga clic [aquí](../images/Welcome_Chapter_Video_screencapture.jpg) para ver sugerencias adicionales.
 
 ### Pruébelo usted mismo
 
