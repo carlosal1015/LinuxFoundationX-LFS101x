@@ -40,3 +40,9 @@ Los certificados de finalización (Certificados Verificados) están disponibles 
 
 
 <img style="float" src="../images/course_progress_cert_request.png">
+
+## Cronología del curso
+
+<img style="float: right;" src="../images/LFS01_ch0_screen_05.jpg">
+
+Este curso es completamente personalizado; no hay un horario fijo para examinar el material. Puede seguir el curso a su propio ritmo, y siempre regresará a donde lo dejó cuando regrese para comenzar una nueva sesión. No hay un período específico de tiempo en el que deba finalizar. Habiendo dicho eso, la clave para obtener el máximo provecho de este (o cualquier) curso es tener una rutina. Según su cronograma, puede pasar tal vez una hora al día o tal vez un par de horas cada fin de semana. Sea lo que sea, intenta seguir con eso. De esta forma, descubrirá que es mejor recordar lo que se ha cubierto anteriormente y está en mejores condiciones para digerir el nuevo material.
