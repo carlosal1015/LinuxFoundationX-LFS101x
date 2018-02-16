@@ -74,3 +74,15 @@ En todos los cursos de la **Linux Foundation** (en cualquier formato) ponemos un
 Debido a que este curso es a su propio ritmo, sin un instructor en vivo, dependerá de usted controlar su presupuesto de tiempo y asegurarse de que se tome el tiempo suficiente para hacer los laboratorios.  
 
 Para la mayoría de los laboratorios, hay un archivo de solución asociado que puede ver. Tenga en cuenta que, en muchos casos, las soluciones no son únicas, así que simplemente considere estas respuestas como un método representativo para resolver el problema; ¡en realidad puedes tener uno mejor!
+
+## Pautas para las discusiones y obtener ayuda
+
+Una excelente manera de interactuar con los compañeros que toman este curso es a través de los paneles de discusión. Estas placas se pueden usar de las siguientes maneras:
+
+- Para discutir conceptos, herramientas y tecnologías presentadas en este curso, o relacionadas con los temas discutidos en el material del curso.
+- Para hacer preguntas sobre el contenido del curso.
+- Para compartir recursos e ideas relacionadas con Linux.
+
+Le recomendamos encarecidamente que no solo haga preguntas, sino que comparta con las opiniones de sus compañeros sobre el contenido del curso, así como recursos valiosos relacionados. Los paneles de discusión serán revisados ​​periódicamente por el personal de  The Linux Foundation  , pero son principalmente un recurso de la comunidad. Para obtener más consejos sobre el uso de los Tableros de discusión, haga clic  aquí .
+
+Si alguna vez necesita asistencia técnica, la ayuda está a su alcance utilizando el botón de Ayuda en la parte superior derecha de la pantalla (de hecho, ¡adelante y haga clic ahora para ver lo que hace!). Aquí puede obtener ayuda técnica, hacer preguntas generales o ser dirigido al Foro de discusión para preguntas sobre el contenido. 
