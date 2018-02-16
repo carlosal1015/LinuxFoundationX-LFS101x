@@ -6,7 +6,7 @@ Jerry Cooperstein, Phd.
 
 ### [Chapter 00: Welcome and Introduction](https://github.com/carlosal1015/LinuxFoundationX-LFS101x/blob/master/Chapter%2000:%20Welcome%20and%20Introduction/README.md)
 
-### [Chapter 01: The Linux Foundation]()
+### [Chapter 01: The Linux Foundation](https://github.com/carlosal1015/LinuxFoundationX-LFS101x/blob/master/Chapter%2001:%20The%20Linux%20Foundation/README.md)
 
 ### [Chapter 02: Linux Philosophy and Concepts]()
 
