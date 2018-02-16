@@ -1,8 +1,7 @@
 # Introducción
 
 ## Introducción
-
-https://www.youtube.com/watch?v=eM407QI0mr4
+[![Video](http://img.youtube.com/vi/eM407QI0mr4/maxresdefault.jpg)](https://www.youtube.com/watch?v=eM407QI0mr4)
 
 ## Introduction/ Learning Objectives ##
 
