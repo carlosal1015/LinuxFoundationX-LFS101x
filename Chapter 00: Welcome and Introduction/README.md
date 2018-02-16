@@ -111,4 +111,10 @@ Si bien soy el autor e instructor de este curso, la verdad es que nunca pudo hab
 
 Finalmente, me gustaría agradecer a todos mis colegas de la Fundación Linux, por hacer de este un esfuerzo de equipo e invertir los recursos para hacer que esto fructifique, ayudando a cubrir algunas de mis otras responsabilidades mientras estábamos tan ocupados con este esfuerzo, y también para revisar material mientras se estaba preparando. Espero que disfruten de ver algunas de sus caras y nombres en las presentaciones de video que comienzan cada capítulo del curso.
 
-<img style="float: right;" src="../images/images/lft_experts_coop.png">
+<img style="float: right;" src="../images/lft_experts_coop.png">
+
+Jerry Cooperstein, Phd.
+
+Director del Programa de Entrenamiento 
+
+La Fundación Linux
