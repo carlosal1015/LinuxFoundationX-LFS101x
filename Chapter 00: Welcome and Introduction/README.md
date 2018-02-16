@@ -103,4 +103,10 @@ Si alguna vez necesita asistencia técnica, la ayuda está a su alcance utilizan
 
   Hay muchas áreas donde hay fuertes desacuerdos de preferencia en la comunidad de Linux (y de fuente abierta más amplia). Los ejemplos incluyen el mejor editor: **emacs** vs. **vi**; el mejor escritorio gráfico: **GNOME** vs. **KDE**, etc. Usualmente, hemos elegido (cuando sea necesario) una alternativa particular para enfatizar solo para mantener las cosas limpias; por ejemplo, hablamos mucho más sobre GNOME que **KDE** simplemente porque tiene una base de usuarios más grande, no porque estamos tomando una posición sobre qué es mejor.
   
-  
+## Una nota del autor
+
+Este curso desciende del curso original de *Introducción a Linux* de la Fundación Linux, que siempre se impartía con un instructor en vivo, ya sea en un aula física o en un aula virtual a través de Internet, por el cual cobramos la matrícula. La conversión de este curso a uno gratuito y disponible para una gran comunidad fue una tarea que la Fundación Linux creyó que valía la pena y que sería muy apreciada. Cuando comenzamos el proceso de conversión a un curso de autoedición en el formato MOOC para edX, realmente no teníamos idea de cuánto trabajo sería y cuántos cambios tendríamos que hacer en la presentación, por lo que ambos podrían estar en pie. por sí solo sin un instructor en vivo y ser lo suficientemente entretenido como para mantener el interés de los estudiantes.
+
+Si bien soy el autor e instructor de este curso, la verdad es que nunca pudo haber sido producido sin el esfuerzo de muchas personas que han contribuido con su tiempo y talento a su desarrollo. En primer lugar, debo agradecer a Flavia Cioanca y Clyde Seepersad de la Fundación Linux, quienes han estado profundamente involucradas a través de ciclos implacables de desarrollo de contenido y presentación de aclaraciones. 
+
+Finalmente, me gustaría agradecer a todos mis colegas de la Fundación Linux, por hacer de este un esfuerzo de equipo e invertir los recursos para hacer que esto fructifique, ayudando a cubrir algunas de mis otras responsabilidades mientras estábamos tan ocupados con este esfuerzo, y también para revisar material mientras se estaba preparando. Espero que disfruten de ver algunas de sus caras y nombres en las presentaciones de video que comienzan cada capítulo del curso.
