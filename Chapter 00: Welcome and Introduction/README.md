@@ -67,7 +67,7 @@ En estas secciones, se le pide que responda preguntas cortas (generalmente de op
 
 ## Ejercicios de laboratorio
 
-<img style="float: right;" src="../images/LFS01_ch0_screen_07.jpg">
+<img style="float: right;" src="../images/LFS01_Ch0_Screen7.jpg">
 
 En todos los cursos de la **Linux Foundation** (en cualquier formato) ponemos un gran énfasis en aprender haciendo. En las clases en vivo dirigidas por un instructor, casi siempre buscamos un equilibrio de 50/50 entre la lectura y la discusión, y trabajar en ejercicios de laboratorio o tareas que realizan las tareas que se acaban de describir en la clase o intentan variaciones más ambiciosas. Los instructores ayudan a los estudiantes a descubrir cómo hacer cosas, depurar sus códigos y scripts, etc. durante estas sesiones de laboratorio.
 
