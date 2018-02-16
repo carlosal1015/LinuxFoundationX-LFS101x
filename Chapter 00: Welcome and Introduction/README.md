@@ -91,12 +91,12 @@ Si alguna vez necesita asistencia técnica, la ayuda está a su alcance utilizan
 
 1. Las cosas cambian en Linux
 
-No importa cuánto hayamos trabajado para mantenernos actualizados, Linux está en constante evolución, tanto a nivel técnico (incluidas las características del núcleo) como a nivel de distribución e interfaz. Por lo tanto, tenga en cuenta que hemos tratado de estar lo más actualizados posible en el momento en que se lanzó este curso, pero puede haber cambios y nuevas funciones que no hemos discutido. Esto es inevitable.
+  No importa cuánto hayamos trabajado para mantenernos actualizados, Linux está en constante evolución, tanto a nivel técnico (incluidas las características del núcleo) como a nivel de distribución e interfaz. Por lo tanto, tenga en cuenta que hemos tratado de estar lo más actualizados posible en el momento en que se lanzó este curso, pero puede haber cambios y nuevas funciones que no hemos discutido. Esto es inevitable.
 
 2. Hemos repetido algunas cosas en el material de la clase.
 
-Es casi imposible en un curso tan completo no volver a tratar los temas que se han cubierto previamente, y las revisiones cortas son útiles para que no tenga que ir a buscar en secciones anteriores para trotar. memoria. Esto es particularmente cierto con los elementos de configuración del sistema, por ejemplo, cómo usar  sudo  para obtener privilegios de root temporales de la manera más segura posible. Sabemos que lo hemos hecho y, al menos en la mayoría de los casos, es por diseño, no por accidente.
+  Es casi imposible en un curso tan completo no volver a tratar los temas que se han cubierto previamente, y las revisiones cortas son útiles para que no tenga que ir a buscar en secciones anteriores para trotar. memoria. Esto es particularmente cierto con los elementos de configuración del sistema, por ejemplo, cómo usar  sudo  para obtener privilegios de root temporales de la manera más segura posible. Sabemos que lo hemos hecho y, al menos en la mayoría de los casos, es por diseño, no por accidente.
 
 3. Hemos tratado de evitar las guerras santas.
 
-Hay muchas áreas donde hay fuertes desacuerdos de preferencia en la comunidad de Linux (y de fuente abierta más amplia). Los ejemplos incluyen el mejor editor:  emacs  vs.  vi ; el mejor escritorio gráfico:  GNOME  vs.  KDE , etc. Usualmente, hemos elegido (cuando sea necesario) una alternativa particular para enfatizar solo para mantener las cosas limpias; por ejemplo, hablamos mucho más sobre  GNOME  que  KDE  simplemente porque tiene una base de usuarios más grande, no porque estamos tomando una posición sobre qué es mejor.
+  Hay muchas áreas donde hay fuertes desacuerdos de preferencia en la comunidad de Linux (y de fuente abierta más amplia). Los ejemplos incluyen el mejor editor:  emacs  vs.  vi ; el mejor escritorio gráfico:  GNOME  vs.  KDE , etc. Usualmente, hemos elegido (cuando sea necesario) una alternativa particular para enfatizar solo para mantener las cosas limpias; por ejemplo, hablamos mucho más sobre  GNOME  que  KDE  simplemente porque tiene una base de usuarios más grande, no porque estamos tomando una posición sobre qué es mejor.
