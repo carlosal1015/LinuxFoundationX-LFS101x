@@ -1,7 +1,14 @@
 # Introducción
 
 ## Introducción
+
 [![Video](http://img.youtube.com/vi/eM407QI0mr4/maxresdefault.jpg)](https://www.youtube.com/watch?v=eM407QI0mr4)
+
+# La Fundación Linux
+
+## La Fundación Linux
+
+[![Video](http://img.youtube.com/vi/xBxfEg596_M/maxresdefault.jpg)](https://www.youtube.com/watch?v=xBxfEg596_M)
 
 ## Introduction/ Learning Objectives ##
 
