@@ -71,6 +71,10 @@ Los eventos de la Fundación Linux incluyen:
 - Vault
 - Open Networking Summit.
 
+Haga clic a continuación para ver un video sobre los eventos organizados por The Linux Foundation.
+
+[![Video](http://img.youtube.com/vi/q3nJRoihSBI/maxresdefault.jpg)](https://www.youtube.com/watch?v=q3nJRoihSBI)
+
 ## Knowledge Check
 
 - [x] To promote Linux and provide neutral collaboration and education
