@@ -10,7 +10,7 @@
 
 [![Video](http://img.youtube.com/vi/xBxfEg596_M/maxresdefault.jpg)](https://www.youtube.com/watch?v=xBxfEg596_M)
 
-## Introduction/ Learning Objectives ##
+## Objetivos de aprendizaje
 
 Al final de este capítulo, usted debería ser capaz de:
 
