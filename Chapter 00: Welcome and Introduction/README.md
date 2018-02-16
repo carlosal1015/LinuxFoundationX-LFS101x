@@ -37,3 +37,6 @@ Una vez que haya completado el examen, querrá saber si ya pasó. Podrá ver su 
 Los certificados de finalización (Certificados Verificados) están disponibles una vez que obtiene una calificación aprobatoria. Una vez que lo haya hecho, puede solicitar el certificado en su página "Progreso". Una vez que se completa la solicitud (que puede demorar hasta 48 horas), puede regresar al mismo lugar y descargar su certificado. Las imágenes a continuación proporcionan una guía de cómo se verá esto.
 
 **Sugerencia**: si necesita demostrar una constancia de finalización antes de que se genere su certificado, le recomendamos que tome una captura de pantalla de la página de progreso del curso.
+
+
+<img style="float: right;" src="../images/course_progress_cert_request.png">
