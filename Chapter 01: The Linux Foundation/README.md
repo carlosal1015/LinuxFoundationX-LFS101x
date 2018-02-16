@@ -21,7 +21,7 @@ Al final de este capítulo, usted debería ser capaz de:
 - Describir el entorno de software requerido para este curso.
 - Describir las tres principales familias de distribución de Linux.
 
-#### Acerca de la Fundación Linux ####
+## Acerca de la Fundación Linux
 
 <img style="float: right;" src="../images/LFS01_ch01_screen_04.jpg">
 
@@ -33,13 +33,13 @@ Linux es el proyecto de software de código abierto más grande y más extendido
 
 El trabajo de la Fundación Linux hoy se extiende mucho más allá de Linux, fomentando la innovación en cada capa de la pila de software. La Linux Foundation es la organización paraguas de muchos proyectos críticos de código abierto que actualmente impulsan a las corporaciones, abarcando todos los sectores de la industria:
 
-- Networking: OpenDaylight, OPNFV
-- Embedded: Dronecode
-- Web tools: JS Foundation, Node.js
-- Cloud computing: Cloud Foundry, Cloud Native Computing Foundation, Open Container Initiative
-- Automotive: Automotive Grade Linux
-- Security: The Core Infrastructure Initiative
-- Blockchain: Hyperledger
+- Networking: [OpenDaylight](https://www.opendaylight.org/), [OPNFV](https://www.opnfv.org/)
+- Embedded: [Dronecode](https://www.dronecode.org/)
+- Web tools: [JS Foundation](https://js.foundation/), [Node.js](https://nodejs.org/en/)
+- Cloud computing: [Cloud Foundry](https://www.cloudfoundry.org/), [Cloud Native Computing Foundation](https://www.cncf.io/), [Open Container Initiative](https://www.opencontainers.org/)
+- Automotive: [Automotive Grade Linux](https://www.automotivelinux.org/)
+- Security: [The Core Infrastructure Initiative](https://www.coreinfrastructure.org/)
+- Blockchain: [Hyperledger]()
 
 And many more.
 
