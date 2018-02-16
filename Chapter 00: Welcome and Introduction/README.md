@@ -64,3 +64,13 @@ En estas actividades, se le pide que realice ciertas tareas, y se verifica su en
 ### Comprobación del conocimiento
 
 En estas secciones, se le pide que responda preguntas cortas (generalmente de opción múltiple) para ver si ha captado la discusión anterior. De lo contrario, es posible que se pierda un poco a medida que avanza más. Una vez más, puede haber un caso en el que brinde una respuesta levemente diferente pero correcta, y se le informa incorrectamente que está equivocado, aunque hemos intentado minimizar las preguntas de relleno por esa razón. ¡Recuerda que no estás siendo calificado!
+
+## Ejercicios de laboratorio
+
+<img style="float: right;" src="../images/LFS01_ch0_screen_06.jpg">
+
+En todos los cursos de la **Linux Foundation** (en cualquier formato) ponemos un gran énfasis en aprender haciendo. En las clases en vivo dirigidas por un instructor, casi siempre buscamos un equilibrio de 50/50 entre la lectura y la discusión, y trabajar en ejercicios de laboratorio o tareas que realizan las tareas que se acaban de describir en la clase o intentan variaciones más ambiciosas. Los instructores ayudan a los estudiantes a descubrir cómo hacer cosas, depurar sus códigos y scripts, etc. durante estas sesiones de laboratorio.
+
+Debido a que este curso es a su propio ritmo, sin un instructor en vivo, dependerá de usted controlar su presupuesto de tiempo y asegurarse de que se tome el tiempo suficiente para hacer los laboratorios.  
+
+Para la mayoría de los laboratorios, hay un archivo de solución asociado que puede ver. Tenga en cuenta que, en muchos casos, las soluciones no son únicas, así que simplemente considere estas respuestas como un método representativo para resolver el problema; ¡en realidad puedes tener uno mejor!
